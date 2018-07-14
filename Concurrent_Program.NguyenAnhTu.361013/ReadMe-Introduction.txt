@@ -1,0 +1,3 @@
+- Project Eclipse 
+- Use Command Prompt to run program to enter password and username, defaults usename is "username", default password is "22222" (port)
+- Use Java -jar space_game.jar to run
